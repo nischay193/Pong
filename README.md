@@ -18,7 +18,7 @@ Pong Game made using JavaFX
 
 
 ```sh
-cd out/artifacts/Pong_jar
+cd Pong/out/artifacts/Pong_jar
 ```
 ```sh
 java -jar Pong.jar
