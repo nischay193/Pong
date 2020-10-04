@@ -11,7 +11,7 @@ import static javafx.application.Application.launch;
 
 public class Main {
 
-    static int WIDTH = 1200, HEIGHT = 600;
+    static int WIDTH = 800, HEIGHT = 600;
 
     public static void main(String[] args) {
         Application.launch(Game.class);
